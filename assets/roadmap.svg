@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="450" y2="0"><stop offset="0" stop-color="#C9A24B"/><stop offset="1" stop-color="#E8C77A"/></linearGradient></defs>
+  <rect width="1200" height="190" rx="16" fill="#0B0F17" stroke="#1F2937"/>
+  <text x="40" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#C9A24B" letter-spacing="3">VEIEN VIDERE</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <line x1="150" y1="80" x2="1050" y2="80" stroke="#1F2937" stroke-width="4" stroke-linecap="round"/>
+<line x1="150" y1="80" x2="450" y2="80" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+<line x1="450" y1="80" x2="1050" y2="80" stroke="#C9A24B" stroke-opacity="0.6" stroke-width="3" stroke-dasharray="6 10"><animate attributeName="stroke-dashoffset" from="32" to="0" dur="1.4s" repeatCount="indefinite"/></line>
+<circle cx="150" cy="80" r="16" fill="#C9A24B"/><path d="M143 80 l5 5 l9 -10" stroke="#0B0F17" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="150" y="128" text-anchor="middle" font-size="20" font-weight="700" fill="#F9FAFB">Vg1</text>
+<text x="150" y="154" text-anchor="middle" font-size="14" fill="#6B7280">IT og medieproduksjon</text>
+<circle cx="450" cy="80" r="16" fill="none" stroke="#C9A24B" stroke-width="2"><animate attributeName="r" values="16;30" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="80" r="16" fill="#0B0F17" stroke="#C9A24B" stroke-width="3"/><circle cx="450" cy="80" r="7" fill="#E8C77A"/>
+<text x="450" y="128" text-anchor="middle" font-size="20" font-weight="700" fill="#F9FAFB">Vg2</text>
+<text x="450" y="154" text-anchor="middle" font-size="14" fill="#6B7280">IT-utvikling · nå</text>
+<circle cx="750" cy="80" r="14" fill="#0B0F17" stroke="#4B5563" stroke-width="2"/>
+<text x="750" y="128" text-anchor="middle" font-size="20" font-weight="700" fill="#9CA3AF">Læreplass</text>
+<text x="750" y="154" text-anchor="middle" font-size="14" fill="#6B7280">IT-utvikler / IT-drift · 2 år</text>
+<circle cx="1050" cy="80" r="14" fill="#0B0F17" stroke="#4B5563" stroke-width="2"/>
+<text x="1050" y="128" text-anchor="middle" font-size="20" font-weight="700" fill="#9CA3AF">Fagbrev</text>
+<text x="1050" y="154" text-anchor="middle" font-size="14" fill="#6B7280">Fagarbeider innen IT</text>
+  </g>
+</svg>

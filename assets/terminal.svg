@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="362" viewBox="0 0 900 362">
+  <rect width="900" height="362" rx="14" fill="#0B0F17" stroke="#1F2937"/>
+  <rect width="900" height="40" rx="14" fill="#111827"/>
+  <rect y="26" width="900" height="14" fill="#111827"/>
+  <circle cx="24" cy="20" r="6" fill="#EF4444"/><circle cx="44" cy="20" r="6" fill="#F59E0B"/><circle cx="64" cy="20" r="6" fill="#22C55E"/>
+  <text x="450" y="25" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="13" fill="#6B7280" text-anchor="middle">ali@rocky — bash</text>
+  <g font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
+  <text x="28" y="78" opacity="0"><tspan fill="#22C55E">ali@rocky</tspan><tspan fill="#6B7280">:</tspan><tspan fill="#60A5FA">~</tspan><tspan fill="#6B7280">$ </tspan><tspan fill="#F9FAFB">whoami</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.045;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="102" opacity="0"><tspan fill="#D1D5DB">ali · Vg2 IT-utvikling @ Åssiden vgs</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.105;0.11;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="126" opacity="0"><tspan fill="#22C55E">ali@rocky</tspan><tspan fill="#6B7280">:</tspan><tspan fill="#60A5FA">~</tspan><tspan fill="#6B7280">$ </tspan><tspan fill="#F9FAFB">cat stack.txt</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.17;0.175;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="150" opacity="0"><tspan fill="#D1D5DB">backend&#160;&#160;→&#160;&#160;C#, ASP.NET Core, PostgreSQL, JWT</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.235;0.24;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="174" opacity="0"><tspan fill="#D1D5DB">drift&#160;&#160;&#160;&#160;→&#160;&#160;Proxmox, Rocky Linux, Docker, Nginx, Seq</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3;0.305;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="198" opacity="0"><tspan fill="#22C55E">ali@rocky</tspan><tspan fill="#6B7280">:</tspan><tspan fill="#60A5FA">~</tspan><tspan fill="#6B7280">$ </tspan><tspan fill="#F9FAFB">docker ps --format "{{.Names}}&#160;&#160;{{.Status}}"</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.365;0.37;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="222" opacity="0"><tspan fill="#4ADE80">logistikk-api&#160;&#160;&#160;Up</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.43;0.435;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="246" opacity="0"><tspan fill="#4ADE80">logistikk-web&#160;&#160;&#160;Up</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.495;0.5;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="270" opacity="0"><tspan fill="#4ADE80">seq&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Up</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.56;0.565;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="294" opacity="0"><tspan fill="#22C55E">ali@rocky</tspan><tspan fill="#6B7280">:</tspan><tspan fill="#60A5FA">~</tspan><tspan fill="#6B7280">$ </tspan><tspan fill="#F9FAFB">echo $NESTE_STEG</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.625;0.63;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  <text x="28" y="318" opacity="0"><tspan fill="#E8C77A">læreplass i IT-utviklerfaget eller IT-driftsfaget</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.69;0.695;0.96;1" dur="14.0s" repeatCount="indefinite"/></text>
+  </g>
+</svg>

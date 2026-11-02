@@ -16,6 +16,10 @@ Jeg går Vg2 IT-utvikling ved Åssiden videregående skole og liker å forstå h
 - 📚 **Lærer:** ASP.NET Core, PostgreSQL og drift med Linux, Docker og Proxmox
 - 🎯 **Søker:** læreplass i IT-utviklerfaget eller IT-driftsfaget, og deltidsjobb innen IT
 
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, stack, kjørende tjenester og neste steg" width="85%">
+</p>
+
 ## Utvalgt prosjekt
 
 <a href="https://github.com/AliPluss/logistikk-showcase">
@@ -46,6 +50,12 @@ Jeg går Vg2 IT-utvikling ved Åssiden videregående skole og liker å forstå h
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,mongodb,threejs,tailwind&perline=10" alt="Python, Django, Node.js, Express, MongoDB, Three.js, Tailwind">
+</p>
+
+## Veien videre
+
+<p align="center">
+  <img src="assets/roadmap.svg" alt="Vg1 fullført, Vg2 nå, deretter læreplass og fagbrev" width="100%">
 </p>
 
 ---
