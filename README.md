@@ -1,63 +1,55 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Ali Badr Almrabhi – Vg2 IT-utvikling, backend og serverdrift" width="100%">
+</p>
 
-# Hei, jeg er Ali 👋
-### Vg2 IT-utvikling · Backend · IT-drift
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-badr-a-a-almrabhi-5676b9448/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Drammen_·_Oslo-111827?style=flat-square&logo=googlemaps&logoColor=C9A24B" alt="Drammen og Oslo">
+  <img src="https://img.shields.io/badge/Læreplass-IT--utvikler_·_IT--drift-C9A24B?style=flat-square" alt="Søker læreplass">
+</p>
 
-Jeg liker å forstå hvordan kode, databaser og servere fungerer sammen.
+## Om meg
 
-**Søker læreplass og deltidsjobb innen IT i Oslo og Buskerud.**
+Jeg går Vg2 IT-utvikling ved Åssiden videregående skole og liker å forstå hele kjeden – fra koden og databasen til serveren den kjører på.
 
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🔧 **Nå:** backend og server for et lager- og logistikksystem for en ekte oppdragsgiver
+- 📚 **Lærer:** ASP.NET Core, PostgreSQL og drift med Linux, Docker og Proxmox
+- 🎯 **Søker:** læreplass i IT-utviklerfaget eller IT-driftsfaget, og deltidsjobb innen IT
 
-</div>
+## Utvalgt prosjekt
 
-## Litt om meg
+<a href="https://github.com/AliPluss/logistikk-showcase">
+  <img src="https://raw.githubusercontent.com/AliPluss/logistikk-showcase/main/assets/01-oversikt.png" alt="Logistikk – oversikt" width="100%">
+</a>
 
-Jeg går Vg2 IT-utvikling ved Åssiden videregående skole. Jeg lærer best gjennom praktiske prosjekter: bygge noe, prøve det ut, finne feil og forstå hvorfor de oppstår.
+**[Logistikk](https://github.com/AliPluss/logistikk-showcase)** · Lagerstyring, ordre og plukklister for en ekte oppdragsgiver. Jeg har ansvar for backend og satte opp serveren fra bunnen av.
 
-Hovedinteressen min er backend med C# og ASP.NET Core. Jeg arbeider også med webutvikling, databaser og IT-drift. Når prosjektet trenger det, liker jeg å bidra på tvers av oppgaver og lære mer underveis.
+`ASP.NET Core` `PostgreSQL` `JWT` `Next.js` `Proxmox` `Rocky Linux` `Docker` `Nginx`
 
-## Utvalgt prosjekt — Logistikk
+## Andre prosjekter
 
-Et skoleprosjekt for lageroversikt, ordrebehandling og plukklister. Jeg har hovedansvar for backend og har også arbeidet med webgrensesnittet og servermiljøet.
+| | Prosjekt | Teknologi |
+| :---: | --- | --- |
+| 🗺️ | **[PlanGraph](https://github.com/AliPluss/planGraph)** – gjør en prosjektidé om til en plan vist som graf · *under utvikling* | Next.js · TypeScript |
+| 📦 | **[decortion](https://github.com/AliPluss/decortion)** – JavaScript-bibliotek med decorators, publisert på npm | JavaScript |
+| 📝 | **[rest_django](https://github.com/AliPluss/rest_django)** – REST API for en blogg med JWT-innlogging | Python · Django |
 
-**ASP.NET Core · PostgreSQL · Next.js · JWT**
+## Verktøy
 
-[![Forhåndsvisning av Logistikk med demonstrasjonsdata](https://raw.githubusercontent.com/AliPluss/logistikk-showcase/main/assets/01-oversikt.png)](https://github.com/AliPluss/logistikk-showcase)
+**Daglig**
 
-**[Se prosjektpresentasjon, skjermbilder og video →](https://github.com/AliPluss/logistikk-showcase)**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,nextjs,react,ts,linux,docker,nginx,git&perline=10" alt="C#, .NET, PostgreSQL, Next.js, React, TypeScript, Linux, Docker, Nginx, Git">
+</p>
 
-*Presentasjonen bruker syntetiske data og et simulert API. Prosjektets kildekode er privat.*
+**Har også jobbet med**
 
-## Teknologier jeg arbeider med
-
-| Område | Teknologier |
-| --- | --- |
-| Backend og data | C#, ASP.NET Core, PostgreSQL, JWT |
-| Webutvikling | Next.js, React, TypeScript |
-| Server og drift | Linux, Rocky Linux, Proxmox, Docker, Nginx |
-| Nettverk og logger | Tailscale, Seq |
-| Verktøy og samarbeid | Git, GitHub |
-| Backend og Data | Python, Django postgresql |
-| Backend og Data | Javascript, node Express.js, mongoDB, JWT | 
-
-Dette er teknologier jeg bruker og lærer gjennom praktisk arbeid, ikke en påstand om ekspertnivå i alle verktøyene.
-
-## Hva jeg ønsker å bidra med
-
-- Nysgjerrighet og vilje til å lære av erfarne kolleger.
-- Praktisk feilsøking og interesse for hele løsningen.
-- Dokumentasjon som gjør det lettere å samarbeide.
-- Motivasjon for å utvikle meg innen backend og IT-drift.
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,mongodb,threejs,tailwind&perline=10" alt="Python, Django, Node.js, Express, MongoDB, Three.js, Tailwind">
+</p>
 
 ---
 
-<div align="center">
-
-**Åssiden videregående skole · Norge**  
-Læreplass eller deltidsjobb innen IT? Jeg tar gjerne en prat.
-
-</div>
+<p align="center">
+  <sub>Læreplass eller deltidsjobb innen IT? Jeg tar gjerne en prat – send meg en melding på <a href="https://www.linkedin.com/in/ali-badr-a-a-almrabhi-5676b9448/">LinkedIn</a>.</sub>
+</p>
