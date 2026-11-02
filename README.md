@@ -41,6 +41,8 @@ Et skoleprosjekt for lageroversikt, ordrebehandling og plukklister. Jeg har hove
 | Server og drift | Linux, Rocky Linux, Proxmox, Docker, Nginx |
 | Nettverk og logger | Tailscale, Seq |
 | Verktøy og samarbeid | Git, GitHub |
+| Backend og Data | Python, Django postgresql |
+| Backend og Data | Javascript, node Express.js, mongoDB, JWT | 
 
 Dette er teknologier jeg bruker og lærer gjennom praktisk arbeid, ikke en påstand om ekspertnivå i alle verktøyene.
 
